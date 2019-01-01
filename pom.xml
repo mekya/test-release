@@ -11,6 +11,9 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  <scm>
+    <developerConnection>scm:git:https://github.com/mekya/test-release</developerConnection>
+  </scm>
   <build>
     <plugins>
       <plugin>
